@@ -1,0 +1,8 @@
+{
+  "name": "hello",
+  "version": "0.1.0",
+  "authors": ["CarbideC3"],
+  "description": "CarbideC3 Hello World example",
+  "sources": ["src/**/*.c3"],
+  "dependencies": {}
+}

@@ -1,0 +1,21 @@
+# C3 build artifacts
+build/
+*.o
+*.a
+*.so
+*.dylib
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
